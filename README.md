@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vishwa+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%2B+Security;Azure+%7C+GCP+%7C+CI%2FCD+Pipelines;Turning+Infrastructure+into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vishva+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%2B+Security;Azure+%7C+GCP+%7C+CI%2FCD+Pipelines;Turning+Infrastructure+into+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ```javascript
 const vishwa = {
-  name:        "Vishwa Sure",
+  name:        "Vishva S",
   location:    "Tamil Nadu, India 🇮🇳",
   degree:      "B.Tech – Information Technology (2023)",
   college:     "Karpagam College of Engineering, Coimbatore",
