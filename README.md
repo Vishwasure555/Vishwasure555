@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishwa%20Sure&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Security-First%20Mindset&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishva%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Security-First%20Mindset&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
-const vishwa = {
+const vishva = {
   name:        "Vishva S",
   location:    "Tamil Nadu, India 🇮🇳",
   degree:      "B.Tech – Information Technology (2023)",
@@ -46,7 +46,7 @@ const vishwa = {
   motto: () => "Automate everything. Secure everything. Monitor everything.",
 };
 
-console.log(vishwa.motto());
+console.log(vishva.motto());
 // → "Automate everything. Secure everything. Monitor everything."
 ```
 
